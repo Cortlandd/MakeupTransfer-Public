@@ -1,7 +1,6 @@
 # Makeup Transfer for Android
 <img src="screenshots/ic_launcher_web.png" align="left" width="200" hspace="10" vspace="10">
-Makeup Transfer is a simple Android app for transferring Makeup from one face to another. Makeup Transfer uses a model
-based on the Paper BeautyGAN: Instance-level Facial Makeup Transfer with DeepGenerative Adversarial Network<br/>
+Makeup Transfer is a simple Android app for transferring Makeup from one face to another.<br/>
 
 _Video Demo: https://www.youtube.com/watch?v=Al0bOkuRDbo_
 
