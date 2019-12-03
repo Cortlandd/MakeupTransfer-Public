@@ -1,5 +1,5 @@
 # Makeup Transfer for Android
-<img src="screenshots/ic_launcher_web.png" align="left" width="200" hspace="10" vspace="10">
+<img src="screenshots/ic_launcher-web.png" align="left" width="200" hspace="10" vspace="10">
 Makeup Transfer is a simple Android app for transferring Makeup from one face to another.<br/>
 
 _Video Demo: https://www.youtube.com/watch?v=Al0bOkuRDbo_
@@ -19,8 +19,6 @@ _Video Demo: https://www.youtube.com/watch?v=Al0bOkuRDbo_
 
 ## Screenshots
 <div style="display:flex;" >
-<img src="screenshots/screenshot1.jpg" width="19%" >
-<img style="margin-left:10px;" src="screenshots/screenshot2.jpg" width="19%" >
-<img style="margin-left:10px;" src="screenshots/screenshot3.jpg" width="19%" >
-
+<img src="screenshots/C1wUqoUjmBJh_1440_2880.png" width="19%" >
+<img style="margin-left:10px;" src="screenshots/Xz5pcUxdCyMo_1440_2880.png" width="19%" >
 </div>
