@@ -1,6 +1,6 @@
-# Makeup Transfer for Android
+# Makeup Transfer
 <img src="screenshots/ic_launcher-web.png" align="left" width="200" hspace="10" vspace="10">
-Makeup Transfer is a simple Android app for transferring Makeup from one face to another.<br/>
+Makeup Transfer is a simple Mobile app for transferring Makeup from one face to another.<br/>
 
 _Video Demo: https://www.youtube.com/watch?v=Al0bOkuRDbo_
 
